@@ -4,5 +4,5 @@ pillow
 numpy
 imageio
 imutils
-+tensorflow==2.16.1  # Add TensorFlow dependency
-+cvlib==0.2.7       # Ensure cvlib is explicitly included
+tensorflow==2.16.1  
+cvlib==0.2.7       
