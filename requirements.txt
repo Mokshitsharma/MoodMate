@@ -1,4 +1,0 @@
-cvlib
-opencv-python
-streamlit
-python_version == 3.10.3
