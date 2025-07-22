@@ -1,0 +1,7 @@
+streamlit==1.47.0
+opencv-python==4.12.0.88
+cvlib==0.2.7
+pillow
+numpy
+imageio
+imutils
